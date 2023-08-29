@@ -1,0 +1,95 @@
+#btnsearch {
+    background-color: #070571;
+    border-radius: 5;
+    height: 35px;
+    width: 150px
+}
+#btnsearch:hover {
+    background-color: blue;
+}
+#locationsearch, #select {
+    border-radius: 0;
+    width: 200px;
+    height: 35px;
+}
+.text {
+    text-decoration: underline;
+    color: #070571;
+}
+img {
+    width: 200px;
+    background-color: white;
+}
+#bgdiv {
+    background-color: #181717;
+    background-blend-mode: lighten;
+    background-image: url('../../assets/rentalBg.jpg');
+    margin-top: -19px;
+}
+#cardsearch {
+    outline: 1px solid #070571;
+    color: #070571;
+    font-weight: bold;
+}
+#cardsearch:hover {
+    background-color: #070571;
+    color: white;
+}
+#hr {
+    margin-top: 30px;
+    height: 20px;
+}
+#hrspan {
+    display: flex;
+    color: #070571;
+}
+#reviews {
+    color: #070571;
+}
+.hr2 {
+    width: 300px;
+}
+#divhr {
+    background-color: #a689f7ff;
+    height: 2px;
+    width: 250px;
+}
+#divhr2, #hr {
+    background-color: #070571;
+    height: 2px;
+    width: 100px;
+}
+#footer {
+    background-color: #070571;
+    width: 1349px;
+    margin-left: -117px;
+}
+.bi {
+    padding: 5px;
+    color: white;
+    font-size: 1rem;
+}
+#email-input {
+    width: 265px;
+}
+#email-input, #textarea {
+    background-color: #070571;
+}
+#email-input::placeholder, #textarea::placeholder {
+    color: white;
+}
+#btnsend {
+    background-color: white;
+    border-radius: 5;
+    height: 35px;
+    width: 265px;
+    color: #070571;
+}
+#btnsend:hover {
+    background-color: #070571;
+    outline: 1px solid white;
+    color: white;
+}
+#footerimage {
+    width: 300px;
+}
