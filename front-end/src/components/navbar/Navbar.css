@@ -1,0 +1,21 @@
+#navbar {
+    background-color: #070571;
+}
+#nav-link {
+    color: white;
+    padding-right: 25px;
+}
+#nav-link:hover, #navbar-link:active {
+    color: white;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+#btn-signup {
+    color: #070571;
+    background-color: white;
+}
+#btn-signup:hover {
+    color: white;
+    background-color: #070571;
+    outline: 1px solid white;
+}

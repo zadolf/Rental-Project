@@ -1,0 +1,42 @@
+#footer {
+    background-color: #070571;
+    width: 1349px;
+    margin-left: -117px;
+}
+.bi {
+    padding: 5px;
+    font-size: 1rem;
+}
+.bi-facebook, .bi-linkedin {
+    color: white;
+}
+.bi-youtube, .bi-pinterest {
+    color: red;
+}
+.bi-twitter {
+    color: blue;
+}
+#email-input {
+    width: 265px;
+}
+#email-input, #textarea {
+    background-color: #070571;
+}
+#email-input::placeholder, #textarea::placeholder {
+    color: white;
+}
+#btnsend {
+    background-color: white;
+    border-radius: 5;
+    height: 35px;
+    width: 265px;
+    color: #070571;
+}
+#btnsend:hover {
+    background-color: #070571;
+    outline: 1px solid white;
+    color: white;
+}
+#footerimage {
+    width: 300px;
+}
